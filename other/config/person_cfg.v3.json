@@ -1,0 +1,439 @@
+[
+    {
+        "id": 1,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/qigai3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/qigai2.png",
+        "name": "乞丐",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/qigai1.png",
+            "scale": 1,
+            "headH": 135,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 10
+        },
+        "insertTime": 1585559649000,
+        "updateTime": 1585559649000,
+        "stageNum": 0
+    },
+    {
+        "id": 2,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/qiongshusheng3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/qiongshusheng2.png",
+        "name": "穷书生",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/qiongshusheng1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 158,
+            "outlineImg": "",
+            "bodyY": 10
+        },
+        "insertTime": 1585559649000,
+        "updateTime": 1585559649000,
+        "stageNum": 1
+    },
+    {
+        "id": 3,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/tongsheng3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/tongsheng2.png",
+        "name": "童生",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/tongsheng1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 10
+        },
+        "insertTime": 1585559649000,
+        "updateTime": 1585559649000,
+        "stageNum": 16
+    },
+    {
+        "id": 4,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/xiucai3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/xiucai2.png",
+        "name": "秀才",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/xiucai1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 10
+        },
+        "insertTime": 1585559649000,
+        "updateTime": 1585559649000,
+        "stageNum": 44
+    },
+    {
+        "id": 5,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/juren3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/juren2.png",
+        "name": "举人",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/juren1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 174,
+            "outlineImg": "",
+            "bodyY": 10
+        },
+        "insertTime": 1585559649000,
+        "updateTime": 1585559649000,
+        "stageNum": 100
+    },
+    {
+        "id": 6,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/tanhua3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/tanhua2.png",
+        "name": "探花",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/tanhua1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 159,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559649000,
+        "updateTime": 1585559649000,
+        "stageNum": 160
+    },
+    {
+        "id": 7,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/bangyan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/bangyan2.png",
+        "name": "榜眼",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/bangyan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 155,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 220
+    },
+    {
+        "id": 8,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/zhuangyuan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/zhuangyuan2.png",
+        "name": "状元",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/zhuangyuan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 184,
+            "outlineImg": "",
+            "bodyY": -10
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 280
+    },
+    {
+        "id": 9,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/zhimaguan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/zhimaguan2.png",
+        "name": "芝麻官",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/zhimaguan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 215,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 340
+    },
+    {
+        "id": 10,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/shilang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/shilang2.png",
+        "name": "侍郎",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/shilang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 182,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 400
+    },
+    {
+        "id": 11,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/xianguan3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/xianguan2.png",
+        "name": "县官",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/xianguan1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 183,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 460
+    },
+    {
+        "id": 12,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/taixue3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/taixue2.png",
+        "name": "太学",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/taixue1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 159,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 520
+    },
+    {
+        "id": 13,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/hanlin3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/hanlin2.png",
+        "name": "翰林",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/hanlin1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 580
+    },
+    {
+        "id": 14,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/zhifu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/zhifu2.png",
+        "name": "知府",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/zhifu1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 160,
+            "outlineImg": "",
+            "bodyY": -7
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 640
+    },
+    {
+        "id": 15,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/shangshu3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/shangshu2.png",
+        "name": "尚书",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/shangshu1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 157,
+            "outlineImg": "",
+            "bodyY": -7
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 700
+    },
+    {
+        "id": 16,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/neige3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/neige2.png",
+        "name": "内阁",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/neige1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": -7
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 760
+    },
+    {
+        "id": 17,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/chengxiang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/chengxiang2.png",
+        "name": "丞相",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/chengxiang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 162,
+            "outlineImg": "",
+            "bodyY": -7
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 820
+    },
+    {
+        "id": 18,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/ningyuanhou3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/ningyuanhou2.png",
+        "name": "宁远侯",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/ningyuanhou1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 163,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 880
+    },
+    {
+        "id": 19,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/fuguogong3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/fuguogong2.png",
+        "name": "辅国公",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/fuguogong1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": 0
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 940
+    },
+    {
+        "id": 20,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/zhenguogong3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/zhenguogong2.png",
+        "name": "镇国公",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/zhenguogong1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 161,
+            "outlineImg": "",
+            "bodyY": -12
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 1000
+    },
+    {
+        "id": 21,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/junwang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/junwang2.png",
+        "name": "郡王",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/junwang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 160,
+            "outlineImg": "",
+            "bodyY": -20
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 1080
+    },
+    {
+        "id": 22,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/qinwang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/qinwang2.png",
+        "name": "亲王",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/qinwang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 160,
+            "outlineImg": "",
+            "bodyY": -25
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 1160
+    },
+    {
+        "id": 23,
+        "anchorTop": null,
+        "bodyImg": "https://cdnzmg.zmfamily.cn/word/role/huangshang3.png",
+        "headImg": "https://cdnzmg.zmfamily.cn/word/role/huangshang2.png",
+        "name": "皇上",
+        "data": {
+            "fullImg": "https://cdnzmg.zmfamily.cn/word/role/huangshang1.png",
+            "scale": 1,
+            "headH": 140,
+            "headY": 0,
+            "w": 158,
+            "outlineImg": "",
+            "bodyY": -29
+        },
+        "insertTime": 1585559650000,
+        "updateTime": 1585559650000,
+        "stageNum": 1240
+    }
+]
